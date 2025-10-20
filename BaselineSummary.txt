@@ -1,0 +1,55 @@
+2024/1689 
+REGULATION (EU) 2024/1689 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+of 13 June 2024 
+laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) 
+
+
+The document outlines the Artificial Intelligence Act (AI Act), a regulation by the European Union to establish harmonized rules for the development, use, and governance of AI systems. Below is a simplified summary:
+
+Purpose
+    The AI Act aims to:
+        Ensure trustworthy and human-centric AI.
+        Protect health, safety, fundamental rights, democracy, and the environment.
+        Promote innovation and support small and medium enterprises (SMEs).
+Scope
+    The regulation applies to:
+        Providers and deployers of AI systems in the EU.
+        Importers, distributors, and manufacturers of AI systems.
+        AI systems used in the EU, even if developed outside the EU.
+    Exclusions:
+        AI systems used exclusively for military, defense, or national security purposes.
+        AI systems developed solely for scientific research.
+Key Provisions
+    Prohibited AI Practices:
+        Manipulative AI systems that distort human behavior.
+        AI systems exploiting vulnerabilities (e.g., age, disability).
+        Social scoring systems that lead to unjustified discrimination.
+        Certain uses of biometric identification and emotion recognition.
+    High-Risk AI Systems:
+        AI systems in critical areas like biometrics, education, employment, law enforcement, migration, and justice.
+        These systems must meet strict requirements, including risk management, transparency, human oversight, and cybersecurity.
+    General-Purpose AI Models:
+        AI models capable of performing a wide range of tasks (e.g., large language models).
+        Special rules apply to models with systemic risks, including evaluation, documentation, and risk mitigation.
+    Transparency Obligations:
+        Users must be informed when interacting with AI systems.
+        AI-generated content (e.g., deep fakes) must be labeled.
+    Innovation Support:
+        AI regulatory sandboxes will allow testing of innovative AI systems under regulatory supervision.
+        SMEs will receive priority access to sandboxes and tailored support.
+Governance
+    EU-Level Oversight:
+        The European Artificial Intelligence Board (Board) and AI Office will coordinate enforcement and provide guidance.
+        A scientific panel will monitor systemic risks of general-purpose AI models.
+    National Authorities:
+        Member States must designate authorities for market surveillance and enforcement.
+Penalties
+    Violations of prohibited practices: Fines up to €35 million or 7% of global annual turnover.
+    Non-compliance with other provisions: Fines up to €15 million or 3% of turnover.
+Timeline
+    February 2025: Prohibited practices take effect.
+    August 2025: Rules for high-risk AI systems and general-purpose AI models begin.
+    August 2026: Full application of the regulation.
+
+Conclusion
+The AI Act establishes a comprehensive framework to ensure safe, ethical, and innovative AI development and use in the EU, balancing regulation with support for innovation. However since the technology’s landscape is in itself evolving, an aggressive approach to expand the act’s provisions to include such requirements will have to be undertaken.
