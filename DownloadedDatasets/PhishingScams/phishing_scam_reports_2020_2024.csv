@@ -1,0 +1,101 @@
+Target Role,Phishing Method,Date (Year-Month),Country,Reported By,Attack Successful,Financial Loss (USD),Brief Description
+CEO,Malicious Attachment,2020-01,Canada,Law Enforcement,No,0,Phishing via Malicious Attachment targeting CEO. Success: No.
+Finance Officer,Email,2023-01,UK,Victim,Yes,548785,Phishing via Email targeting Finance Officer. Success: Yes.
+Finance Officer,Email,2023-08,China,Third-party Security Firm,No,0,Phishing via Email targeting Finance Officer. Success: No.
+CEO,Fake Website,2022-06,Canada,Victim,Yes,789486,Phishing via Fake Website targeting CEO. Success: Yes.
+IT Admin,Social Media,2020-09,USA,Law Enforcement,Yes,821902,Phishing via Social Media targeting IT Admin. Success: Yes.
+Customer Service,Voice Call,2020-02,China,Law Enforcement,Yes,556039,Phishing via Voice Call targeting Customer Service. Success: Yes.
+General Public,SMS,2021-07,India,Law Enforcement,Yes,955244,Phishing via SMS targeting General Public. Success: Yes.
+IT Admin,SMS,2020-07,China,Law Enforcement,No,0,Phishing via SMS targeting IT Admin. Success: No.
+CEO,QR Code,2020-05,Brazil,Victim,Yes,523748,Phishing via QR Code targeting CEO. Success: Yes.
+Customer Service,SMS,2022-08,India,Third-party Security Firm,No,0,Phishing via SMS targeting Customer Service. Success: No.
+CEO,Social Media,2023-09,Japan,Victim,Yes,219058,Phishing via Social Media targeting CEO. Success: Yes.
+Finance Officer,Malicious Attachment,2020-12,Brazil,Internal Security Team,Yes,839466,Phishing via Malicious Attachment targeting Finance Officer. Success: Yes.
+Corporate Employee,Social Media,2022-08,India,Victim,Yes,44973,Phishing via Social Media targeting Corporate Employee. Success: Yes.
+Customer Service,SMS,2024-03,Germany,Internal Security Team,No,0,Phishing via SMS targeting Customer Service. Success: No.
+Corporate Employee,Malicious Attachment,2021-02,France,Victim,Yes,722259,Phishing via Malicious Attachment targeting Corporate Employee. Success: Yes.
+Corporate Employee,Malicious Attachment,2022-07,India,Law Enforcement,Yes,184604,Phishing via Malicious Attachment targeting Corporate Employee. Success: Yes.
+General Public,QR Code,2021-12,Germany,Third-party Security Firm,No,0,Phishing via QR Code targeting General Public. Success: No.
+Finance Officer,Voice Call,2024-03,Canada,Law Enforcement,No,0,Phishing via Voice Call targeting Finance Officer. Success: No.
+General Public,Fake Website,2023-12,Canada,Third-party Security Firm,Yes,539297,Phishing via Fake Website targeting General Public. Success: Yes.
+Customer Service,Voice Call,2022-05,France,Law Enforcement,No,0,Phishing via Voice Call targeting Customer Service. Success: No.
+CEO,Voice Call,2022-03,USA,Third-party Security Firm,No,0,Phishing via Voice Call targeting CEO. Success: No.
+General Public,Voice Call,2022-10,Australia,Law Enforcement,Yes,394631,Phishing via Voice Call targeting General Public. Success: Yes.
+Finance Officer,Social Media,2024-03,France,Victim,No,0,Phishing via Social Media targeting Finance Officer. Success: No.
+Corporate Employee,QR Code,2020-03,Brazil,Victim,No,0,Phishing via QR Code targeting Corporate Employee. Success: No.
+Customer Service,Social Media,2023-02,India,Victim,No,0,Phishing via Social Media targeting Customer Service. Success: No.
+Finance Officer,QR Code,2021-03,India,Third-party Security Firm,Yes,769050,Phishing via QR Code targeting Finance Officer. Success: Yes.
+Finance Officer,Email,2024-01,India,Law Enforcement,Yes,925230,Phishing via Email targeting Finance Officer. Success: Yes.
+General Public,Malicious Attachment,2022-12,UK,Victim,Yes,343597,Phishing via Malicious Attachment targeting General Public. Success: Yes.
+Customer Service,QR Code,2021-02,Australia,Internal Security Team,No,0,Phishing via QR Code targeting Customer Service. Success: No.
+Finance Officer,Fake Website,2024-10,Brazil,Internal Security Team,Yes,29083,Phishing via Fake Website targeting Finance Officer. Success: Yes.
+CEO,Malicious Attachment,2021-09,Australia,Internal Security Team,No,0,Phishing via Malicious Attachment targeting CEO. Success: No.
+IT Admin,QR Code,2022-12,Brazil,Third-party Security Firm,Yes,452650,Phishing via QR Code targeting IT Admin. Success: Yes.
+CEO,QR Code,2021-03,Japan,Third-party Security Firm,Yes,284570,Phishing via QR Code targeting CEO. Success: Yes.
+Finance Officer,Social Media,2022-09,China,Internal Security Team,Yes,56364,Phishing via Social Media targeting Finance Officer. Success: Yes.
+Finance Officer,Malicious Attachment,2024-03,Germany,Internal Security Team,No,0,Phishing via Malicious Attachment targeting Finance Officer. Success: No.
+Corporate Employee,QR Code,2024-03,USA,Law Enforcement,No,0,Phishing via QR Code targeting Corporate Employee. Success: No.
+CEO,Malicious Attachment,2020-04,France,Victim,No,0,Phishing via Malicious Attachment targeting CEO. Success: No.
+Customer Service,Malicious Attachment,2021-12,India,Third-party Security Firm,Yes,398025,Phishing via Malicious Attachment targeting Customer Service. Success: Yes.
+Customer Service,QR Code,2023-08,Japan,Law Enforcement,No,0,Phishing via QR Code targeting Customer Service. Success: No.
+Customer Service,Email,2024-04,Canada,Internal Security Team,Yes,964322,Phishing via Email targeting Customer Service. Success: Yes.
+General Public,Email,2021-05,France,Third-party Security Firm,Yes,77326,Phishing via Email targeting General Public. Success: Yes.
+General Public,Voice Call,2020-09,France,Victim,No,0,Phishing via Voice Call targeting General Public. Success: No.
+Finance Officer,Malicious Attachment,2024-08,Australia,Victim,No,0,Phishing via Malicious Attachment targeting Finance Officer. Success: No.
+General Public,Malicious Attachment,2022-08,France,Internal Security Team,Yes,229646,Phishing via Malicious Attachment targeting General Public. Success: Yes.
+Customer Service,Fake Website,2022-06,Germany,Third-party Security Firm,Yes,17121,Phishing via Fake Website targeting Customer Service. Success: Yes.
+Finance Officer,SMS,2021-03,UK,Internal Security Team,No,0,Phishing via SMS targeting Finance Officer. Success: No.
+CEO,Social Media,2020-03,India,Internal Security Team,Yes,638796,Phishing via Social Media targeting CEO. Success: Yes.
+Finance Officer,Malicious Attachment,2021-11,USA,Victim,No,0,Phishing via Malicious Attachment targeting Finance Officer. Success: No.
+CEO,Email,2024-07,China,Law Enforcement,No,0,Phishing via Email targeting CEO. Success: No.
+Finance Officer,Social Media,2023-04,Germany,Victim,No,0,Phishing via Social Media targeting Finance Officer. Success: No.
+Corporate Employee,Fake Website,2021-06,Germany,Law Enforcement,Yes,337614,Phishing via Fake Website targeting Corporate Employee. Success: Yes.
+General Public,SMS,2022-03,Japan,Third-party Security Firm,Yes,140842,Phishing via SMS targeting General Public. Success: Yes.
+Corporate Employee,Social Media,2021-03,Brazil,Victim,No,0,Phishing via Social Media targeting Corporate Employee. Success: No.
+Customer Service,Email,2023-12,China,Third-party Security Firm,No,0,Phishing via Email targeting Customer Service. Success: No.
+General Public,Social Media,2021-05,India,Law Enforcement,No,0,Phishing via Social Media targeting General Public. Success: No.
+Customer Service,Fake Website,2023-10,Japan,Victim,No,0,Phishing via Fake Website targeting Customer Service. Success: No.
+Finance Officer,SMS,2022-06,China,Law Enforcement,No,0,Phishing via SMS targeting Finance Officer. Success: No.
+Customer Service,Fake Website,2024-02,USA,Law Enforcement,Yes,711865,Phishing via Fake Website targeting Customer Service. Success: Yes.
+CEO,Email,2023-04,Brazil,Victim,No,0,Phishing via Email targeting CEO. Success: No.
+CEO,Malicious Attachment,2022-08,Australia,Law Enforcement,No,0,Phishing via Malicious Attachment targeting CEO. Success: No.
+Customer Service,SMS,2022-03,China,Law Enforcement,Yes,309873,Phishing via SMS targeting Customer Service. Success: Yes.
+Customer Service,QR Code,2023-07,France,Internal Security Team,No,0,Phishing via QR Code targeting Customer Service. Success: No.
+Customer Service,Fake Website,2022-06,USA,Law Enforcement,No,0,Phishing via Fake Website targeting Customer Service. Success: No.
+CEO,Voice Call,2024-08,Australia,Victim,No,0,Phishing via Voice Call targeting CEO. Success: No.
+Corporate Employee,QR Code,2022-09,UK,Victim,No,0,Phishing via QR Code targeting Corporate Employee. Success: No.
+Corporate Employee,Email,2023-05,USA,Law Enforcement,No,0,Phishing via Email targeting Corporate Employee. Success: No.
+Finance Officer,Email,2021-07,Japan,Law Enforcement,No,0,Phishing via Email targeting Finance Officer. Success: No.
+Finance Officer,Social Media,2024-03,UK,Third-party Security Firm,Yes,431196,Phishing via Social Media targeting Finance Officer. Success: Yes.
+Finance Officer,QR Code,2023-10,Brazil,Law Enforcement,Yes,735814,Phishing via QR Code targeting Finance Officer. Success: Yes.
+Corporate Employee,Email,2023-09,Canada,Third-party Security Firm,Yes,418167,Phishing via Email targeting Corporate Employee. Success: Yes.
+CEO,Malicious Attachment,2020-02,France,Victim,No,0,Phishing via Malicious Attachment targeting CEO. Success: No.
+IT Admin,SMS,2023-04,Australia,Victim,No,0,Phishing via SMS targeting IT Admin. Success: No.
+Corporate Employee,QR Code,2024-06,USA,Law Enforcement,Yes,908883,Phishing via QR Code targeting Corporate Employee. Success: Yes.
+Finance Officer,Voice Call,2024-06,USA,Third-party Security Firm,Yes,691461,Phishing via Voice Call targeting Finance Officer. Success: Yes.
+Corporate Employee,Voice Call,2021-01,Australia,Victim,Yes,201965,Phishing via Voice Call targeting Corporate Employee. Success: Yes.
+CEO,QR Code,2024-11,China,Third-party Security Firm,No,0,Phishing via QR Code targeting CEO. Success: No.
+IT Admin,Social Media,2020-01,Australia,Victim,Yes,632630,Phishing via Social Media targeting IT Admin. Success: Yes.
+Corporate Employee,Social Media,2024-01,India,Third-party Security Firm,No,0,Phishing via Social Media targeting Corporate Employee. Success: No.
+IT Admin,QR Code,2020-12,France,Victim,No,0,Phishing via QR Code targeting IT Admin. Success: No.
+IT Admin,Malicious Attachment,2021-12,Canada,Internal Security Team,Yes,320156,Phishing via Malicious Attachment targeting IT Admin. Success: Yes.
+Finance Officer,QR Code,2024-02,Germany,Victim,No,0,Phishing via QR Code targeting Finance Officer. Success: No.
+IT Admin,SMS,2022-12,Germany,Victim,Yes,348847,Phishing via SMS targeting IT Admin. Success: Yes.
+Customer Service,QR Code,2021-02,Australia,Victim,Yes,272696,Phishing via QR Code targeting Customer Service. Success: Yes.
+IT Admin,Voice Call,2021-01,China,Internal Security Team,Yes,388085,Phishing via Voice Call targeting IT Admin. Success: Yes.
+Corporate Employee,Social Media,2020-10,Canada,Third-party Security Firm,Yes,126952,Phishing via Social Media targeting Corporate Employee. Success: Yes.
+CEO,Email,2023-08,UK,Victim,Yes,912089,Phishing via Email targeting CEO. Success: Yes.
+Finance Officer,Voice Call,2023-03,Australia,Law Enforcement,Yes,856616,Phishing via Voice Call targeting Finance Officer. Success: Yes.
+Corporate Employee,Fake Website,2022-03,Canada,Internal Security Team,No,0,Phishing via Fake Website targeting Corporate Employee. Success: No.
+Customer Service,Malicious Attachment,2021-01,Germany,Victim,No,0,Phishing via Malicious Attachment targeting Customer Service. Success: No.
+Corporate Employee,Fake Website,2021-12,Brazil,Victim,No,0,Phishing via Fake Website targeting Corporate Employee. Success: No.
+CEO,Malicious Attachment,2022-09,USA,Internal Security Team,Yes,884416,Phishing via Malicious Attachment targeting CEO. Success: Yes.
+CEO,Social Media,2022-01,Brazil,Law Enforcement,Yes,405614,Phishing via Social Media targeting CEO. Success: Yes.
+Corporate Employee,Malicious Attachment,2021-02,Canada,Third-party Security Firm,Yes,97046,Phishing via Malicious Attachment targeting Corporate Employee. Success: Yes.
+Corporate Employee,Malicious Attachment,2023-08,UK,Victim,Yes,739622,Phishing via Malicious Attachment targeting Corporate Employee. Success: Yes.
+IT Admin,Fake Website,2022-08,Japan,Law Enforcement,No,0,Phishing via Fake Website targeting IT Admin. Success: No.
+General Public,Malicious Attachment,2024-04,France,Third-party Security Firm,Yes,672408,Phishing via Malicious Attachment targeting General Public. Success: Yes.
+IT Admin,Fake Website,2024-11,Germany,Law Enforcement,Yes,368181,Phishing via Fake Website targeting IT Admin. Success: Yes.
+Finance Officer,QR Code,2021-08,USA,Law Enforcement,No,0,Phishing via QR Code targeting Finance Officer. Success: No.
+Finance Officer,SMS,2024-05,Brazil,Law Enforcement,Yes,888505,Phishing via SMS targeting Finance Officer. Success: Yes.
+General Public,Voice Call,2021-10,Germany,Victim,No,0,Phishing via Voice Call targeting General Public. Success: No.
