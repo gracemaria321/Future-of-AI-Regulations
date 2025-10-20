@@ -1,0 +1,205 @@
+Country/Region,Law/Policy Name,Status,Year,Scope,Provenance
+European Union,AI Act (Regulation (EU) 2024/1689),Passed (Enforced 2025–26),2024.0,"Safety, Transparency, Risk, Liability",https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+United States,Executive Order 14110 (AI Safety & Trust),Enforced,2023.0,"Safety, Civil Rights, Federal Use",https://www.federalregister.gov/documents/2023/11/01/2023-24283
+United States,Algorithmic Accountability Act,Draft,2022.0,"Transparency, Bias in Automated Systems",https://www.congress.gov/bill/117th-congress/house-bill/6580
+China,Interim Measures for Generative AI,Enforced,2023.0,"Content, IP, Security, Provider Duties",https://english.www.gov.cn/news/202307/13/content_WS64aff5b3c6d0868f4e8ddc01.html
+China,Algorithmic Recommendation Regulations,Enforced,2022.0,"Content moderation, User rights",https://www.loc.gov/item/global-legal-monitor/2022-03-01/china-regulations-on-recommendation-algorithms/
+Canada,"Artificial Intelligence and Data Act (AIDA, Bill C-27)",Draft,2022.0,"Accountability, Bias, Privacy",https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c27.html
+Brazil,Bill 2338/2023 (AI Framework Law),Draft,2023.0,"Ethics, Liability, Human Rights",https://www.camara.leg.br
+UK,AI Regulation White Paper,Policy,2023.0,"Pro-innovation, Sectoral Regulators",https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach
+France,Digital Republic Law (AI/Bias clauses),Passed,2016.0,"Transparency, Algorithmic Decisions",https://www.legifrance.gouv.fr
+Germany,AI Strategy & EU AI Act Implementation,Policy,2023.0,"Safety, R&D, Ethics",https://www.bmwi.de
+Spain,Royal Decree AI Sandbox,Policy/Pilot,2023.0,Testing high-risk AI,https://www.boe.es
+Italy,AI Act National Adaptation Plan,Policy,2024.0,"Compliance, Safety",https://www.governo.it
+Japan,AI Strategic Council Guidelines,Policy,2023.0,"Safety, Innovation, Ethics",https://www.meti.go.jp
+South Korea,Framework Act on AI,Draft,2023.0,"R&D, Safety, Liability",https://www.law.go.kr
+Singapore,Model AI Governance Framework,Policy,2020.0,"Ethics, Transparency, Fairness",https://www.imda.gov.sg
+UAE,National AI Strategy 2031,Policy,2017.0,"Ethics, R&D, Deployment",https://ai.gov.ae
+Saudi Arabia,AI National Strategy,Policy,2020.0,"Safety, R&D, Governance",https://sdaia.gov.sa
+India,National AI Strategy (NITI Aayog),Policy,2018.0,"Ethics, R&D, Use-cases",https://niti.gov.in
+India,DPDP Act (AI implications),Passed,2023.0,"Data Protection, AI implications",https://www.meity.gov.in
+Pakistan,National AI Policy Draft,Draft,2023.0,"R&D, Ethics, Governance",https://moitt.gov.pk
+Australia,Safe and Responsible AI Discussion Paper,Draft Policy,2023.0,"Ethics, Regulation Options",https://www.industry.gov.au
+New Zealand,AI Principles (Digital Council),Policy,2021.0,"Ethics, Transparency",https://www.digital.govt.nz
+Mexico,AI National Strategy,Policy,2018.0,"Innovation, Ethics",https://www.gob.mx
+Argentina,National AI Plan (draft),Draft,2022.0,"R&D, Ethics",https://www.argentina.gob.ar
+Chile,AI National Policy 2021,Policy,2021.0,"Ethics, Human Rights, Transparency",https://www.minciencia.gob.cl
+Kenya,AI National Strategy (draft),Draft,2023.0,"Innovation, Ethics",https://www.ict.go.ke
+South Africa,AI Institute + Draft Policy,Draft,2022.0,"Innovation, Skills, Ethics",https://www.thedtic.gov.za
+Nigeria,National AI Strategy (draft),Draft,2023.0,"Ethics, Innovation",https://nitda.gov.ng
+Israel,AI National Strategy,Policy,2023.0,"R&D, Governance, Defense",https://innovationisrael.org.il
+OECD,AI Principles (42 countries),Policy (non-binding),2019.0,"Trustworthy AI, Human-Centric",https://oecd.ai/en/ai-principles
+Thailand,Royal Decree on AI + Act on Promotion of AI Innovations,Draft,2024.0,"Regulation of AI businesses, Innovation",https://www.addleshawgoddard.com/globalassets/insights/employment/global-ai-laws---overview---june-2024-pdf.pdf
+Peru,Law No. 31814 (AI promotion),Draft,2023.0,AI promotion in economic/social sectors,https://www.addleshawgoddard.com/globalassets/insights/employment/global-ai-laws---overview---june-2024-pdf.pdf
+Chile,AI Bill,Draft,2023.0,Ethical AI Regulation,https://www.addleshawgoddard.com/globalassets/insights/employment/global-ai-laws---overview---june-2024-pdf.pdf
+Kenya,Robotics & AI Society Bill,Draft,2023.0,"Robotics, AI ethics",https://www.addleshawgoddard.com/globalassets/insights/employment/global-ai-laws---overview---june-2024-pdf.pdf
+Italy,AI-related Crimes Bill,Draft,2024.0,"Deepfakes, Copyright, Misuse penalties",https://www.reuters.com/technology/italy-drafts-tough-penalties-ai-related-crimes-2024-04-09/
+Colombia,AI Regulation Proposals,Draft,2023.0,"Transparency, Human Oversight",https://www.mindfoundry.ai/blog/ai-regulations-around-the-world
+Uruguay,AI Regulation Proposals,Draft,2023.0,"Transparency, User Consent",https://gcore.com/blog/ai-regulations-2024-global-cheat-sheet
+Malaysia,AI Ethics & Governance Guidelines,Draft,2023.0,"Ethics, Governance",https://www.mindfoundry.ai/blog/ai-regulations-around-the-world
+Indonesia,AI National Regulation Task Force,Draft,2023.0,AI platform oversight,https://www.mindfoundry.ai/blog/ai-regulations-around-the-world
+Philippines,Bills on AI Deepfakes & Transparency,Draft,2023.0,"Deepfakes, Transparency",https://www.fairly.ai/blog/map-of-global-ai-regulations
+Turkey,Proposed AI Law,Draft,2023.0,General AI regulation,https://www.fairly.ai/blog/map-of-global-ai-regulations
+Oman,National AI Plan,Policy,2022.0,"Ethics, R&D, Innovation",https://www.fairly.ai/blog/map-of-global-ai-regulations
+Sri Lanka,National Strategy on AI,Policy,2023.0,"Ethics, Governance",https://www.fairly.ai/blog/map-of-global-ai-regulations
+Hong Kong,AI Privacy Framework / Consumer Protection,Draft/Policy,2023.0,"Privacy, Consumer Protection",https://www.fairly.ai/blog/map-of-global-ai-regulations
+Argentina,Draft AI Regulation Bill,Draft,2023.0,"Innovation, Liability",https://gcore.com/blog/ai-regulations-2024-global-cheat-sheet
+South Africa,AI National Policy (draft),Draft,2023.0,"Ethics, Innovation",https://www.addleshawgoddard.com/globalassets/insights/employment/global-ai-laws---overview---june-2024-pdf.pdf
+Australia,Voluntary AI Standards,Policy,2023.0,"Transparency, Oversight",https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence
+New Zealand,AI Regulatory Guidance,Policy,2023.0,"Privacy, Fairness",https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence
+Mexico,AI Ethics Charter,Policy,2021.0,"Ethics, Principles",https://www.gob.mx
+Brazil,AI Ethics Guidelines (before Bill 2338),Policy,2021.0,"Ethics, Innovation",https://www.camara.leg.br
+Algeria,,Nothing found,,,
+Bahrain,,Nothing found,,,
+Egypt,,Nothing found,,,
+Iran,,Nothing found,,,
+Iraq,,Nothing found,,,
+Jordan,,Nothing found,,,
+Kuwait,,Nothing found,,,
+Lebanon,,Nothing found,,,
+Libya,,Nothing found,,,
+Morocco,,Nothing found,,,
+Qatar,,Nothing found,,,
+Syria,,Nothing found,,,
+Tunisia,,Nothing found,,,
+Yemen,,Nothing found,,,
+State of Palestine,,Nothing found,,,
+Afghanistan,,Nothing found,,,
+Bangladesh,,Nothing found,,,
+Bhutan,,Nothing found,,,
+Maldives,,Nothing found,,,
+Nepal,,Nothing found,,,
+Kazakhstan,,Nothing found,,,
+Kyrgyzstan,,Nothing found,,,
+Tajikistan,,Nothing found,,,
+Turkmenistan,,Nothing found,,,
+Uzbekistan,,Nothing found,,,
+Angola,,Nothing found,,,
+Benin,,Nothing found,,,
+Botswana,,Nothing found,,,
+Burkina Faso,,Nothing found,,,
+Burundi,,Nothing found,,,
+Cabo Verde,,Nothing found,,,
+Cameroon,,Nothing found,,,
+Central African Republic,,Nothing found,,,
+Chad,,Nothing found,,,
+Comoros,,Nothing found,,,
+Congo (Republic),,Nothing found,,,
+Congo (DRC),,Nothing found,,,
+Côte d’Ivoire,,Nothing found,,,
+Djibouti,,Nothing found,,,
+Equatorial Guinea,,Nothing found,,,
+Eritrea,,Nothing found,,,
+Eswatini,,Nothing found,,,
+Ethiopia,,Nothing found,,,
+Gabon,,Nothing found,,,
+Gambia,,Nothing found,,,
+Ghana,,Nothing found,,,
+Guinea,,Nothing found,,,
+Guinea-Bissau,,Nothing found,,,
+Lesotho,,Nothing found,,,
+Liberia,,Nothing found,,,
+Madagascar,,Nothing found,,,
+Malawi,,Nothing found,,,
+Mali,,Nothing found,,,
+Mauritania,,Nothing found,,,
+Mauritius,,Nothing found,,,
+Mozambique,,Nothing found,,,
+Namibia,,Nothing found,,,
+Niger,,Nothing found,,,
+Rwanda,,Nothing found,,,
+São Tomé and Príncipe,,Nothing found,,,
+Senegal,,Nothing found,,,
+Seychelles,,Nothing found,,,
+Sierra Leone,,Nothing found,,,
+Somalia,,Nothing found,,,
+South Sudan,,Nothing found,,,
+Sudan,,Nothing found,,,
+Tanzania,,Nothing found,,,
+Togo,,Nothing found,,,
+Uganda,,Nothing found,,,
+Zambia,,Nothing found,,,
+Zimbabwe,,Nothing found,,,
+Bolivia,,Nothing found,,,
+Paraguay,,Nothing found,,,
+Ecuador,,Nothing found,,,
+Venezuela,,Nothing found,,,
+Guatemala,,Nothing found,,,
+Honduras,,Nothing found,,,
+El Salvador,,Nothing found,,,
+Nicaragua,,Nothing found,,,
+Costa Rica,,Nothing found,,,
+Panama,,Nothing found,,,
+Dominican Republic,,Nothing found,,,
+Haiti,,Nothing found,,,
+Cuba,,Nothing found,,,
+Jamaica,,Nothing found,,,
+Trinidad and Tobago,,Nothing found,,,
+Barbados,,Nothing found,,,
+Bahamas,,Nothing found,,,
+Belize,,Nothing found,,,
+Guyana,,Nothing found,,,
+Suriname,,Nothing found,,,
+Saint Lucia,,Nothing found,,,
+Saint Vincent and the Grenadines,,Nothing found,,,
+Grenada,,Nothing found,,,
+Antigua and Barbuda,,Nothing found,,,
+Dominica,,Nothing found,,,
+Saint Kitts and Nevis,,Nothing found,,,
+Albania,,Nothing found,,,
+Andorra,,Nothing found,,,
+Austria,,Nothing found,,,
+Belgium,,Nothing found,,,
+Bosnia and Herzegovina,,Nothing found,,,
+Bulgaria,,Nothing found,,,
+Croatia,,Nothing found,,,
+Cyprus,,Nothing found,,,
+Czechia,,Nothing found,,,
+Denmark,,Nothing found,,,
+Estonia,,Nothing found,,,
+Finland,,Nothing found,,,
+Greece,,Nothing found,,,
+Hungary,,Nothing found,,,
+Iceland,,Nothing found,,,
+Ireland,,Nothing found,,,
+Kosovo,,Nothing found,,,
+Latvia,,Nothing found,,,
+Liechtenstein,,Nothing found,,,
+Lithuania,,Nothing found,,,
+Luxembourg,,Nothing found,,,
+Malta,,Nothing found,,,
+Moldova,,Nothing found,,,
+Monaco,,Nothing found,,,
+Montenegro,,Nothing found,,,
+Netherlands,,Nothing found,,,
+North Macedonia,,Nothing found,,,
+Norway,,Nothing found,,,
+Poland,,Nothing found,,,
+Portugal,,Nothing found,,,
+Romania,,Nothing found,,,
+San Marino,,Nothing found,,,
+Serbia,,Nothing found,,,
+Slovakia,,Nothing found,,,
+Slovenia,,Nothing found,,,
+Sweden,,Nothing found,,,
+Switzerland,,Nothing found,,,
+Ukraine,,Nothing found,,,
+Vatican City,,Nothing found,,,
+North Korea,,Nothing found,,,
+Mongolia,,Nothing found,,,
+Taiwan,,Nothing found,,,
+Macau,,Nothing found,,,
+Papua New Guinea,,Nothing found,,,
+Fiji,,Nothing found,,,
+Solomon Islands,,Nothing found,,,
+Vanuatu,,Nothing found,,,
+Samoa,,Nothing found,,,
+Tonga,,Nothing found,,,
+Kiribati,,Nothing found,,,
+Micronesia (Federated States of),,Nothing found,,,
+Marshall Islands,,Nothing found,,,
+Palau,,Nothing found,,,
+Nauru,,Nothing found,,,
+Tuvalu,,Nothing found,,,
+Cook Islands,,Nothing found,,,
+Niue,,Nothing found,,,
