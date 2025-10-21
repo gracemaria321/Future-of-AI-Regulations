@@ -20,10 +20,10 @@ fig = px.bar(
     x='Year',
     y='Count',
     color='Method',
-    title='Number of Breaches Over Time by Method',
+    title='Number of Breaches Over Time by Method in North America',
     labels={'Count': 'Number of Breaches', 'Year': 'Year', 'Method': 'Breach Method'}
 )
 
 # Save the plot as JSON and PNG files
-fig.write_json("stacked_breaches_by_year.json")
-fig.write_image("stacked_breaches_by_year.png")
+# fig.write_json("AnalysisOutputs/stacked_breaches_by_year.json")
+fig.write_image("AnalysisOutputs/breaches_by_year_North_America.png")

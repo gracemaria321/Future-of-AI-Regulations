@@ -29,5 +29,5 @@ fig = px.bar(
 )
 
 # Save the plot
-fig.write_image("phishing_stacked_bar_chart.png")
-fig.write_json("phishing_stacked_bar_chart.json")
+fig.write_image("AnalysisOutputs/phishing_bar_chart.png")
+# fig.write_json("AnalysisOutputs/phishing_bar_chart.json")

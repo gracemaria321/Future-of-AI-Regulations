@@ -28,5 +28,5 @@ fig = px.bar(
 )
 
 # Save the plot
-fig.write_image("india_cyber_crimes.png")
-fig.write_json("india_cyber_crimes.json")
+fig.write_image("AnalysisOutputs/India_cyber_crimes.png")
+# fig.write_json("AnalysisOutputs/india_cyber_crimes.json")
