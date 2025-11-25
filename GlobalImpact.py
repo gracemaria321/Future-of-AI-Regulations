@@ -15,7 +15,7 @@ df = pd.read_csv("DownloadedDatasets/GlobalAIContentImpactAnalysis2020_2025/Glob
 
 # Quick check
 print("Columns:", df.columns.tolist())
-print(df.head())
+print(df.head().to_string())
 
 # Step 2: plots
 
@@ -28,7 +28,8 @@ fig1.write_image("AnalysisOutputs/adoptionRate.png")
 # 2. AI-Generated Content Volume vs Year
 fig2 = px.scatter(df, x="Year", y="AI-Generated Content Volume (TBs per year)",
                   color="Country", size="AI Adoption Rate (%)",
-                  title="AI-Generated Content Volume Over Years")
+                  title="Content Volume Over Years",
+                  labels={"AI-Generated Content Volume (TBs per year)": "Content Volume (TB/year)"})
 fig2.write_image("AnalysisOutputs/ContentVolumevsYear.png")
 
 # 3. Heatmap: Correlation between numeric features
